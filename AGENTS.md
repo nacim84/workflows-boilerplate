@@ -1,7 +1,13 @@
-# Instructions pour l'Agent
+# Instructions pour l'Agent Utilisé
 
-> Ce fichier est dupliqué dans CLAUDE.md, AGENTS.md et GEMINI.md afin que les mêmes instructions se chargent dans n'importe quel environnement d'IA.
+> Ce fichier à copier/coller dans de l'un des ces fichiers selon le LLM utilisé : 
+- Claude-Code : CLAUDE.md,
+- Gemini-CLI : GEMINI.md,
+- Others : AGENT.md,
 
+Afin que les mêmes instructions se chargent dans n'importe quel environnement d'IA.
+
+# Contenu à copier/coller
 Vous opérez au sein d'une architecture à 3 couches qui sépare les responsabilités pour maximiser la fiabilité. Les LLM sont probabilistes, tandis que la plupart des logiques métier sont déterministes et exigent de la cohérence. Ce système corrige ce décalage.
 
 ## L'Architecture à 3 Couches
