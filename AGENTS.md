@@ -1,6 +1,6 @@
 # Instructions pour l'Agent Utilisé
 
-> Ce fichier est à copier/coller puis le supprimer, dans de l'un des ces fichiers selon le LLM utilisé : 
+> Ce fichier est à copier/coller puis le supprimer, dans l'un de ces fichiers selon le LLM utilisé : 
 - Claude-Code : CLAUDE.md,
 - Gemini-CLI : GEMINI.md,
 - Others : AGENT.md,
